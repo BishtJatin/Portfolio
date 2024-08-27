@@ -16,7 +16,7 @@ const Projects = () => {
           }
         },
         {
-          "image": "https://private-user-images.githubusercontent.com/109663578/344579879-a796a42c-e5c5-4bc4-bba6-f165418ce7d4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ3NjMzODksIm5iZiI6MTcyNDc2MzA4OSwicGF0aCI6Ii8xMDk2NjM1NzgvMzQ0NTc5ODc5LWE3OTZhNDJjLWU1YzUtNGJjNC1iYmE2LWYxNjU0MThjZTdkNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyN1QxMjUxMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hOTFhNjE4NmUzY2ZjNTcxNDBiNTFiMmVjOGE5YWUwZTNiZmJmOTgwYmI1YWZkYjIzOWRiZmQ3OTMzNzVlMjFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gSigXIIHwBhdsZgWPH-Wr9hRA7z4nk3taLbH5PQbGuU",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTNhrG5bf9nxS54v58Ox_Z9mISmOM9z8Fveg&s",
           "name": "Netflix-Gpt",
           "description": "This project allows users to search for movies, get movie suggestions",
           "socialLinks": {

@@ -9,6 +9,7 @@ import TextShpere from './TextShpere';
 import Projects from './Projects';
 import { ContactUs } from './Contact';
 import Resume from './Resume.pdf';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
     return (
@@ -30,13 +31,13 @@ const Home = () => {
                             <TiArrowRightOutline />
                         </span>
                         <span className='mt-1 mr-1 hover:text-[#FF5252] cursor-pointer'>
-                            <FaGithub />
+                        <Link to={"https://github.com/BishtJatin"}><FaGithub /></Link>
                         </span>
                         <span className='mt-1 mr-1 hover:text-[#FF5252] cursor-pointer'>
-                            <FaLinkedin />
+                        <Link to={"https://www.linkedin.com/in/jatin-b40910249/"}> <FaLinkedin /></Link>
                         </span>
                         <span className='mt-1 mr-1 hover:text-[#FF5252] cursor-pointer'>
-                            <SiLeetcode />
+                        <Link to={"https://leetcode.com/u/jatinbisht1901/"}><SiLeetcode /></Link>
                         </span>
                         
                     </p>
